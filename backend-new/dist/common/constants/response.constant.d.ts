@@ -1,0 +1,12 @@
+export declare const RESPONSE_SUCCESS = "Response success";
+export declare const USER_LOGIN = "User Successfully Login";
+export declare const USER_LISTED = "Users Listed";
+export declare const USER_INSERTED = "User Created";
+export declare const USER_UPDATED = "User Updated";
+export declare const USER_DELETED = "User Deleted";
+export declare const RECORD_LISTED = "Records Listed";
+export declare const RECORD_INSERTED = "Record Inserted";
+export declare const RECORD_UPDATED = "Record Updated";
+export declare const SOMETHING_WENT_WRNG = "Oops! Something went wrong";
+export declare const RECORD_DELETED = "Record Deleted";
+export declare const PROPERTY_NOT_FOUND = "Property not found";
